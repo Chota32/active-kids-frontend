@@ -1,0 +1,12 @@
+/* Lesson card image: same height for every card, cropped to fit */
+.lesson-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+/* Small thumbnail next to each item in the cart */
+.cart-img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
